@@ -1,0 +1,72 @@
+[
+  {
+    "name": "FraudShield",
+    "desc": "Credit card fraud is a major concern for both consumers and financial institutions.",
+    "image": "FRAUDSHIELD",
+    "category": "ML",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/FRAUDSHIELD",
+      "code": "https://github.com/Annapoornaaradhya/FRAUDSHIELD"
+    }
+  },
+  {
+    "name": "VidyaMitra",
+    "desc": "The Vidyamitra website serves as an educational platform designed to empower learners across various levels.",
+    "image": "vidyamitra",
+    "category": "AI",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/Vidyamitra",
+      "code": "https://github.com/Annapoornaaradhya/Vidyamitra"
+    }
+  },
+  {
+    "name": "MindMate",
+    "desc": "An AI-powered web app that generates topic-specific quizzes in real-time",
+    "image": "mindmate",
+    "category": "PYTHON",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/MindMate",
+      "code": "https://github.com/Annapoornaaradhya/MindMate"
+    }
+  },
+  {
+    "name": "CONNECT4",
+    "desc": "Connect4: Where Strategy Meets Fun, One Disc at a Time!",
+    "image": "Connect4",
+    "category": "Web",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/web_development/tree/main/CONNECT4",
+      "code": "https://github.com/Annapoornaaradhya/web_development/tree/main/CONNECT4"
+    }
+  },
+  {
+    "name": "WeddingBells",
+    "desc": "Wedding Bells is an exclusive e-commerce platform designed to celebrate the beauty and traditions of Indian bridal fashion.",
+    "image": "WeddingBells",
+    "category": "Web",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/web_development/tree/main/webpage",
+      "code": "https://github.com/Annapoornaaradhya/web_development/tree/main/webpage"
+    }
+  },
+  {
+    "name": "Basic Portfolio",
+    "desc": "Basic portfolio web landing page with HTML,CSS",
+    "image": "portfolio",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "JSS CONNECT",
+    "desc": "JSS CONNECT is a dedicated platform designed to foster lasting relationships between alumni and their alma mater",
+    "image": "jssconnect",
+    "category": "FULLSTACK",
+    "links": {
+      "view": "https://github.com/Annapoornaaradhya/JSS_CONNECT",
+      "code": "https://github.com/Annapoornaaradhya/JSS_CONNECT"
+    }
+  }
+]
