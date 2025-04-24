@@ -1,5 +1,7 @@
 ## Portfolio-Website
 
+[![DOI](https://zenodo.org/badge/898209426.svg)](https://doi.org/10.5281/zenodo.15275424)
+
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 <a href="https://annapoornaaradhya.netlify.app/" target="_blank">**Visit Now** 🚀</a>
